@@ -1,0 +1,1 @@
+ffmpeg -i input.mp4 -vn -acodec copy -map_metadata 0 audio.m4a
