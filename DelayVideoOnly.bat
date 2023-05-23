@@ -1,0 +1,1 @@
+ffmpeg -i input.mp4 -itsoffset delaySeconds -i input.mp4 -map 1:v -map 0:a -c copy output.mp4
