@@ -1,0 +1,3 @@
+file '/path/to/clip1'
+file '/path/to/clip2'
+file '/path/to/clip3'
